@@ -1,0 +1,10 @@
+li a {
+    font-family: Arial;
+    color: blue;
+    display: list-item;
+    list-style: square;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat center top;
+}
